@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Tetris",
+    "slug": "creame-un-juego-de-msc34opg",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 0
+    },
+    "plugins": [
+      "expo-updates"
+    ]
+  }
+}
